@@ -1,0 +1,235 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "The Journey Ahead",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Your Mission",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Why This Matters",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "What You Need to Build",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You must build a solution that:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "You Will Be Provided",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1. A sample input PDF (e.g., sample.pdf)",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2. A sample ground truth output (sample.json) for format clarity",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. Sample Dockerfile",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4. Sample Solution",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Expected Execution",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "We will build the docker image using the following command:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Your container should:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Constraints",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Constraint Requirement",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "No internet access",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "your solution should run on",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Scoring Criteria",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Submission Checklist",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "1. Git Project with a working Dockerfile in the root director and",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2. A working Dockerfile",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "3. All dependencies installed within the container",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "4. A README.md that explains:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "o Your approach",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "o Any models or libraries used",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "What Not to Do",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Input Specification",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2. Document Collection: 3-10 related PDFs Persona Definition: Role",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "description with specific expertise and focus areas",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "3. Job-to-be-Done: Concrete task the persona needs to accomplish",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Sample Test Cases",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Required Output",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The output should contain:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1. Metadata:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "2. Extracted Section:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "3. Sub-section Analysis:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Deliverables",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Scoring Criteria",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Criteria Points Description",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "How well selected sections match",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "proper stack ranking",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Quality of granular subsection",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "extraction and ranking",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Appendix:",
+      "page": 10
+    }
+  ]
+}
